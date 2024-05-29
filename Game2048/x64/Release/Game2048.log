@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Cung\UNI\KTLT\DoAnGame\Game2048\Game2048\main.cpp(265,13): warning C4101: 'l': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game2048.vcxproj -> D:\Cung\UNI\KTLT\DoAnGame\Game2048\x64\Release\Game2048.exe
